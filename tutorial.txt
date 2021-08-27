@@ -1,0 +1,11 @@
+#comandos gerais terminal
+    >cd # alterar diretórios
+    >ls # mostrar pastas do diretório selecionado
+    >mkdir # criar uma nova pasta
+    >ctrl + c # derruba o terminal
+
+#comandos git
+    >git init # inicia um repositório local (na pasta do diretorio)
+    >git add . # adiciona os arquivos que farao parte do commit
+    >git commit -m "mensagem" # faz o commit dos arquivos
+    >git status # resumo das operacoes
